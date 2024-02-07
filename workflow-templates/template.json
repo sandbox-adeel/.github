@@ -1,0 +1,13 @@
+{
+  "name": "Sandbox Adeel Organization Workflow",
+  "description": "Sandbox Adeel Organization starter workflow.",
+  "iconName": "example-icon",
+  "categories": [
+      "General"
+  ],
+  "filePatterns": [
+      "package.json$",
+      "^Dockerfile",
+      ".*\\.md$"
+  ]
+}
